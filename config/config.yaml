@@ -119,7 +119,7 @@ platforms:
     name: "财联社 热门"
   - id: "cls-telegraph"  
     name: "财联社 电报"
-   - id: "cls-deep"  
+  - id: "cls-deep"  
     name: "财联社深度"
   - id: "xueqiu-hotstock" # 雪球热门股票
     name: "雪球"
