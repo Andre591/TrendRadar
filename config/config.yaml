@@ -119,13 +119,9 @@ platforms:
     name: "财联社 热门"
   - id: "cls-telegraph"  
     name: "财联社 电报"
-  - id: "cls"  
-    name: "财联社深度"
   - id: "xueqiu-hotstock" # 雪球热门股票
     name: "雪球热门股票"
   - id: "gelonghui"      # 格隆汇事件（实时资讯）
     name: "格隆汇"
   - id: "fastbull"       # 法布财经（默认跳转至快讯）
     name: "法布财经"
-  - id: "fastbull-express" # 法布财经快讯
-    name: "法布财经快讯"
