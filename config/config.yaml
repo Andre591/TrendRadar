@@ -25,7 +25,7 @@ crawler:
 
 # 推送模式选择
 report:
-  mode: "daily" # 可选: "daily"|"incremental"|"current"
+  mode: "incremental" # 可选: "daily"|"incremental"|"current"
   rank_threshold: 5 # 排名高亮阈值
 
 notification:
@@ -122,10 +122,10 @@ platforms:
   - id: "cls-deep"  
     name: "财联社深度"
   - id: "xueqiu-hotstock" # 雪球热门股票
-    name: "雪球"
+    name: "雪球热门股票"
   - id: "gelonghui"      # 格隆汇事件（实时资讯）
     name: "格隆汇"
   - id: "fastbull"       # 法布财经（默认跳转至快讯）
     name: "法布财经"
   - id: "fastbull-express" # 法布财经快讯
-    name: "法布财经"
+    name: "法布财经快讯"
